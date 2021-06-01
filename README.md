@@ -28,7 +28,7 @@ I have experience in these languages (from highest to least):
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.asm)
 * <img valign="middle" src="assets/python.svg" width="24px" /> Python
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.py)
-* C#
+* <img valign="middle" src="assets/csharp.svg" width="24px" /> C#
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.cs)
 
 [![Cook1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendary-cookie)](https://github.com/anuraghazra/github-readme-stats)
