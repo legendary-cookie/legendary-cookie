@@ -1,4 +1,4 @@
-# About me
+# Hello World! It's me, Cook1e
 
 I really like to run stuff on things that aren't supposed to run said stuff :)
 
