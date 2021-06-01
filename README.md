@@ -6,6 +6,8 @@ If you are into iOS jailbreaking:
   * [My Repo](https://aptrepo.github.io)
   * [Tweak to remove the Controllcenter bar](https://github.com/legendary-cookie/noccls)
 
+[A very very cool app for nintendo switch homebrew](https://github.com/legendary-cookie/superusefullapplication)
+
 I have experience in these languages (from highest to least):
 * <img valign="middle" src="assets/java.svg" width="24px" /> Java
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/HelloWorld.java)
