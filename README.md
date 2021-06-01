@@ -1,27 +1,27 @@
 # About me
 I have experience in these languages (from highest to least):
 * Java
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/HelloWorld.java)
 * Nodejs
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.js)
 * Go
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.go)
 * C
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.c)
 * Rust
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.rs)
 * Objective-C [Logos too - Basically obj-c]
 * C++
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.cpp)
 * Kotlin
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.kt)
 * Swift
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.swift)
 * NASM (jk im a sane person, just some loooow stuff)
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.asm)
 * Python
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.py)
 * C#
-  * [helloworld](
+  * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.cs)
 
 [![Cook1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendary-cookie)](https://github.com/anuraghazra/github-readme-stats)
