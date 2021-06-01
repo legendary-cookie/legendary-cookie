@@ -7,26 +7,26 @@ If you are into iOS jailbreaking:
   * [Tweak to remove the Controllcenter bar](https://github.com/legendary-cookie/noccls)
 
 I have experience in these languages (from highest to least):
-* Java
+* <img valign="middle" src="assets/java.svg" width="24px" /> Java
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/HelloWorld.java)
-* Nodejs
+* <img valign="middle" src="assets/nodejs.svg" width="24px" /> Nodejs
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.js)
-* Go
+* <img valign="middle" src="assets/go.svg" width="24px" /> Go
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.go)
-* C
+* <img valign="middle" src="assets/c.svg" width="24px" /> C
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.c)
 * <img valign="middle" src="assets/rust.svg" width="24px" /> Rust
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.rs)
 * <img valign="middle" src="assets/objc.svg" width="24px" /> Objective-C
 * <img valign="middle" src="assets/c++.svg" width="24px" /> C++
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.cpp)
-* Kotlin
+* <img valign="middle" src="assets/kotlin.svg" width="24px" /> Kotlin
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.kt)
 * <img valign="middle" src="assets/swift.svg" width="24px" /> Swift
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.swift)
-* NASM (jk im a sane person, just some loooow stuff)
+* <img valign="middle" src="assets/nasm.svg" width="24px" /> NASM (jk im a sane person, just some loooow stuff)
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.asm)
-* Python
+* <img valign="middle" src="assets/python.svg" width="24px" /> Python
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.py)
 * C#
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.cs)
