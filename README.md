@@ -15,7 +15,7 @@ I have experience in these languages (from highest to least):
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.go)
 * C
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.c)
-* Rust
+* <img valign="middle" src="assets/rust.svg" width="24px" /> Rust
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.rs)
 * Objective-C [Logos too - Basically obj-c]
 * C++
