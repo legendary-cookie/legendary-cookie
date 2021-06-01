@@ -1,4 +1,11 @@
 # About me
+
+I really like to run stuff on things that aren't supposed to run said stuff :)
+
+If you are into iOS jailbreaking:
+  * [My Repo](https://aptrepo.github.io)
+  * [Tweak to remove the Controllcenter bar](https://github.com/legendary-cookie/noccls)
+
 I have experience in these languages (from highest to least):
 * Java
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/HelloWorld.java)
