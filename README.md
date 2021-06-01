@@ -5,7 +5,7 @@ I have experience in these languages (from highest to least):
 * Go
 * C
 * Rust
-* Objective-C
+* Objective-C [Logos too - Basically obj-c]
 * Kotlin
 * Swift
 * C++
