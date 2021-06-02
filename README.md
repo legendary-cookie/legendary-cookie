@@ -33,5 +33,7 @@ I have experience in these languages (from highest to least):
 * <img valign="middle" src="assets/csharp.svg" width="24px" /> C#
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/helloworld.cs)
 
-### Stat thingy
+### Stat thingies
 [![Cook1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendary-cookie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendary-cookie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
