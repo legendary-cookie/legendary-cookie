@@ -37,3 +37,6 @@ I have experience in these languages (from highest to least):
 [![Cook1e's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendary-cookie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendary-cookie&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+### Dotfiles
+[Dotfiles repo](https://github.com/legendary-cookie/dotfiles)
