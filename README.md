@@ -2,7 +2,7 @@
 
 ## Cool stuff I made
 * [Webserver in Go](https://github.com/legendary-cookie/warp)
-
+* look at my other repos
 
 ## Homebrew & Tweaks
 If you are into iOS jailbreaking:
