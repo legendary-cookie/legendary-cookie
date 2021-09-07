@@ -12,7 +12,7 @@ If you are into iOS jailbreaking:
 [A very very cool app for nintendo switch homebrew](https://github.com/legendary-cookie/superusefullapplication)
 
 ## Langs
-I have experience in these languages (from highest to least):
+I have experience in these languages (from highest to least, the helloworlds are quick reminders for myself if I forget syntax or something):
 * <img valign="middle" src="assets/java.svg" width="24px" /> Java
   * [helloworld](https://github.com/legendary-cookie/legendary-cookie/blob/main/HelloWorld.java)
 * <img valign="middle" src="assets/nodejs.svg" width="24px" /> Nodejs
