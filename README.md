@@ -1,5 +1,8 @@
 # Hello World! It's me, Cook1e
-
+## Orgs and projects
+* [CosmoMC](https://github.com/CosmoMC)
+  * [Cosmo Client](https://github.com/CosmoMC/Cosmo)
+  * [Modget](https://github.com/CosmoMC/Modget), to be fair this is a hardfork of [this](https://github.com/ReviversMC/Modget), I just didn't want to the whole PR stuff but wanted the mod to continue.
 ## Cool stuff I made
 * [Webserver in Go](https://github.com/legendary-cookie/warp)
 * look at my other repos
