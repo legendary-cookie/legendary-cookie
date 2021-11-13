@@ -1,5 +1,5 @@
 ## Hello World! It's me, Cook1e
-German hobby dev working on all kinds of stuff. My favourite langs are C, Rust, Go and JS.
+German hobby dev working on all kinds of stuff. My favourite langs are C, Rust, Go and JS. I script in bash!
 <br>
 <br>
 btw vim is better than emacs
